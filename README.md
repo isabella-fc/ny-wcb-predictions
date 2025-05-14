@@ -10,7 +10,7 @@ Millions of compensation claims are filed and evaluated by the WCB. While reform
 
 ## Open-Ended Section
 - Django website that integrates the model to give predictions after form submission
-- [Open-Ended Section Repository]([https://github.com/your-username/open-ended-section](https://github.com/isabella-fc/to-grant-or-not-to-grant))**
+- [Open-Ended Section Repository]([https://github.com/your-username/open-ended-section](https://github.com/isabella-fc/to-grant-or-not-to-grant))
 
 ---
 
